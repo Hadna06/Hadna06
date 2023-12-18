@@ -8,4 +8,4 @@
 
 - 🔭 Atualmente estudo Sistemas para Internet 
 -->
-![Snake animation](https://github.com/Hadna06/blob/output/github-contribution-grid-snake.svg)
+
